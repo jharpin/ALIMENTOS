@@ -1,5 +1,7 @@
 package co.edu.uniquindio.poo;
 
-public class IProcesoRefrigeracion {
-    
+public interface IProcesoRefrigeracion {
+
+   public void iniciarProcesoRefrigeración();
+
 }
